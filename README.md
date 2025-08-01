@@ -2,7 +2,6 @@
   Hi, I'm Asfand Yar Khan Tareen
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-Let’s turn your ideas into working solutions.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20dev%20space;Full%20Stack%20AI%20Engineer;Here%20to%20ensure%20a%20seamless%20experience;Let's%20turn%20your%20ideas%20into%20working%20solutions;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
