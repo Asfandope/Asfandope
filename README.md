@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20dev%20space;Full%20Stack%20AI%20Engineer;Here%20to%20ensure%20a%20seamless%20experience;I'll%20turn%20your%20ideas%20into%20working%20solutions"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20dev%20space;Full%20Stack%20AI%20Engineer;Here%20to%20ensure%20a%20seamless%20experience;I'll%20turn%20your%20ideas%20into%20working%20solutions;&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
