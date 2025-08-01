@@ -2,20 +2,20 @@
   Hi, I'm Asfand Yar Khan Tareen
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
-
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center">
   I help founders, startups, and teams automate their workflows with AI agents that think, act, and save time like a real team member. I’m the founder of Kamui Labs, where we specialize in building custom GPT-style agents and smart AI automations that plug into your business ops, lead generation, customer support, and internal tools. Whether it's a voice agent that calls and qualifies leads, or a LangGraph-powered workflow that replaces 10+ hours of manual labor, we make AI real — and ROI-focused.
 </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <h2 align="center">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </h2>
+  </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
@@ -27,9 +27,9 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <h2 align="center">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </h2>
+  </ul>
 </div>
 
 <!--icons and links-->
@@ -38,13 +38,15 @@
   
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Check My Stats 📈</h2></summary>
+  </ul>
+</div>
 
 <div align="center">
-  <h2 align="center">
-    <summary><h2 style="display: inline-block">Check my Statss 📈</h2></summary>
-  </h2>
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asfandope&theme=github_dark) </br> </br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asfandope&theme=github_dark) </br> </br> 
   
 </div>
 
