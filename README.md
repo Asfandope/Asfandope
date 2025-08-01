@@ -44,8 +44,7 @@
     <summary><h2 style="display: inline-block">Check my Statss 📈</h2></summary>
   </h2>
 
- ![Asfand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfandope&theme=tokyonight) </br> </br> 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfandope&theme=tokyonight)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark) </br> </br>
   
 </div>
 
